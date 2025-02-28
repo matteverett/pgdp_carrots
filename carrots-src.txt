@@ -4,7 +4,7 @@
 
 
 
-INDEX.[**F1: this appears to be more of a ToC, so formatted as such ]
+INDEX.
 
 [Illustration]
 
@@ -16,15 +16,15 @@ Kind of Soil for Carrots,      5
 
 Sowing Carrots,      6
 
-Tilling   "      10
+Tilling   ”      10
 
-Hoeing   "      11
+Hoeing   ”      11
 
-Weeding   "      12
+Weeding   ”      12
 
-Digging   "      13
+Digging   ”      13
 
-Storing   "      15
+Storing   ”      15
 
 The Value of Carrots,      16
 
@@ -38,13 +38,13 @@ Raising Cabbage,      20
 
 Transplanting Cabbage,      21
 
-Tilling "      23
+Tilling ”      23
 
-Heading "      23
+Heading ”      23
 
-Lice on "      24
+Lice on ”      24
 
-Gathering "      25
+Gathering ”      25
 
 Five Acres Enough,      26
 
@@ -60,7 +60,7 @@ Weather Sayings, &c.,      30
 
 
 /*
-TEN YEARS' EXPERIENCE
+TEN YEARS’ EXPERIENCE
 
 IN RAISING
 
@@ -73,7 +73,7 @@ Hillsdale, Col. Co., N. Y.
 
 [Illustration]
 
-New York:[**F1: blackletter]
+New York:
 <sc>Brown & Hewitt, Printers, 37 Park Row</sc>.
 1866.
 */
@@ -87,7 +87,7 @@ Entered according to Act of Congress, in the year 1866, by
 
 H. A. COOK,
 
-In the Clerk's Office of the District Court of the United States for the Southern
+In the Clerk’s Office of the District Court of the United States for the Southern
 District of New York.
 */
 -----File: 004.png---------------------------------------------------------
@@ -110,7 +110,7 @@ which was bound to get ahead of my carrots; but being
 somewhat indefatigable in my energies, I gave close
 application to years of experiments in devising a plan how
 I should raise them without such a heavy tax upon the
-back, which seemed to almost "crack" under the old
+back, which seemed to almost “crack” under the old
 system. I first saw that I must be careful in selecting
 my seed, then I must devise a plan to force it, and then
 seek a plan to sow it (seeing that I could not sow it
@@ -138,7 +138,7 @@ peruse the following pages.
 
 
 
-TEN YEARS' EXPERIENCE
+TEN YEARS’ EXPERIENCE
 
 IN RAISING
 
@@ -154,7 +154,7 @@ following pages may raise them at a cost of 10 cents
 per bushel.
 
 
-<i>Kind of Soil.</i>--Should be the same as for corn. Loose[**assuming Section due to listing in TOC]
+<i>Kind of Soil.</i>—Should be the same as for corn. Loose
 ground, even, quite moist, will raise the largest carrots in
 a dry season, while a sandy or quite gravelly soil will do
 the best in a wet season. It is best to select a somewhat
@@ -166,7 +166,7 @@ and level the plot well that it may be more easily
 leveled in spring. Manure should also be plowed under
 in the fall, that most of the weed seeds which it contains
 will be rendered lifeless by the action of the
-winter's frost. Hog manure composted with swamp
+winter’s frost. Hog manure composted with swamp
 muck is the best. If from necessity you must manure
 in spring, look to it that your manure has no weed-seed
 in it.
@@ -181,7 +181,7 @@ not diminishing its strength more than an ordinary corn
 crop.
 
 
-<i>Kind of Seed.</i>--The long orange is the best for
+<i>Kind of Seed.</i>—The long orange is the best for
 nearly every purpose, although the white may grow as
 many bushels. Always get new seed, which you can
 designate by its being a lively green. Old seed is of a
@@ -189,16 +189,16 @@ yellowish hue, and is much longer sprouting (a fact
 common to all old seeds).
 
 
-<i>Sowing.</i>--Sow as early as the dryness of the ground
-will admit--if it is done in April the larger will be
-the crop--but by all means <i>never work in, or be found on
+<i>Sowing.</i>—Sow as early as the dryness of the ground
+will admit—if it is done in April the larger will be
+the crop—but by all means <i>never work in, or be found on
 your ground when it is wet</i>, if so, you will certainly be
 sorry. Make it your rule never to be on your patch
 when the dirt adheres to your hoe.
 
 Reader, if you adopt the plan of these pages, please
-remember <i>their italics</i>. By sowing early--if you are a
-farmer--your weeding will be done before haying, and
+remember <i>their italics</i>. By sowing early—if you are a
+farmer—your weeding will be done before haying, and
 the carrots will be ripened to dig before the usual heavy
 fall rains come on. Carrots that have ripened before
 digging seem to have more solidity, and are not so watery
@@ -230,7 +230,7 @@ side of the carrot.
 Now make a hand dray with thills and four prongs,
 or teeth, with the bottoms inclining backward (because
 if so, it will run more steady), and two feet apart.
-Make the bottoms of the teeth a little wedge shape--quite
+Make the bottoms of the teeth a little wedge shape—quite
 blunt.
 
 Now draw a line across your patch, and let one prong
@@ -253,7 +253,7 @@ sprouted a little at sowing time all is well; but be
 cautious that they do not get too dry before covering.
 The best carrots I ever raised, and the most easily tilled,
 were sprouted the sixteenth of an inch at sowing time.
-If the ground--from the effects of a late rain--has
+If the ground—from the effects of a late rain—has
 become too wet when you are ready to sow, and your
 seed is liable to sprout, put it in a bag that it may drain,
 and hang it in the cellar that the cool air of the cellar
@@ -268,11 +268,11 @@ it behind the stove pipe it would have spoiled. In
 five days after, sowing my carrots appeared above
 ground.
 
-The utility of soaking the seed is this,--the carrots
+The utility of soaking the seed is this,—the carrots
 will come up quick, consequently get far the start of the
 weeds; you can go among them with a horse and cultivator
 before hoeing, besides saving once weeding and
-hoeing,--in fine, half the expense of raising is saved by
+hoeing,—in fine, half the expense of raising is saved by
 sprouting the seed, or rather swelling it till it is just
 ready to sprout. With the seed prepared in this wise,
 probably no crop is more sure to grow and be productive
@@ -297,7 +297,7 @@ the seed will rattle down its sides and seem to come out
 as evenly as you could place them with the fingers, if
 you move along with the horn with a uniform step. If
 nature has given you a long back you must get a long
-horn, lest you may not have the "back-ache." Now
+horn, lest you may not have the “back-ache.” Now
 traverse your drill which you have just made with your
 dray with the little end of your horn close to the bottom
 of the drill, especially if the wind blows, sowing with
@@ -316,8 +316,8 @@ seed as you wish to have if they all grew well, for many
 will not appear, especially if you have a few lumps or
 small stones in your ground; besides, in cultivating and tilling
 you will accidentally destroy many, and, moreover,
-it is better to have them come up too thick--for then you
-can pull them out--than too thin, for you cannot transplant
+it is better to have them come up too thick—for then you
+can pull them out—than too thin, for you cannot transplant
 them and have them do well. By thus sowing
 with a horn you can see if you make a mistake, whereas
 -----File: 011.png---------------------------------------------------------
@@ -325,8 +325,8 @@ with a drill you cannot. For this reason I never have
 or will have a drill; besides, if your seed is a little
 moist a drill will clog, therefore with a drill you must
 sow dry seed, which is generally about three weeks
-"coming up," while the weeds generally will hide the
-carrots, and it is like finding a honey bee's teeth to find
+“coming up,” while the weeds generally will hide the
+carrots, and it is like finding a honey bee’s teeth to find
 the carrots among the weeds.
 
 With a small boy I can sow one and a half acres per
@@ -350,7 +350,7 @@ When you have done rolling the carrot patch it is then
 useful for other plots.
 
 
-<i>Tilling.</i>--Begin as soon as you can see the rows,
+<i>Tilling.</i>—Begin as soon as you can see the rows,
 especially if you have a large piece. Having nearly or
 quite sprouted your seed before sowing, you will be
 enabled to take your horse, led by a boy, into the
@@ -358,7 +358,7 @@ patch, and cultivate them the first thing, as you would
 corn, for they are now two inches above the weeds.
 Loosen the dirt deeply. When a plant is young is the
 time to give it deep tillage, that the fibrous roots can
-shoot out without obstruction--this should be observed
+shoot out without obstruction—this should be observed
 -----File: 012.png---------------------------------------------------------
 in all tillage. What would you think of him who did
 not dig about a tree which he wishes to hastily become
@@ -378,24 +378,24 @@ teeth, as more will clog, set to the width of eighteen
 inches, we can now see the utility of having the rows
 straight. Should the dirt accidentally cover some, let the
 boy go through the patch with a broom and sweep them
-a little,--it seems to do the plants good rather than
+a little,—it seems to do the plants good rather than
 injure them. Go through twice in each row, as once
 seems to just loosen the weeds so that they grow better
 than before. You should have sowed them thick enough
 to allow for what the horse may destroy.
 
 
-<i>Hoeing.</i>--Procure small square cornered hoes, which
+<i>Hoeing.</i>—Procure small square cornered hoes, which
 are of the best steel, and grind them as sharp as
 possible. I would no more think of hoeing in my
 garden without a ground hoe than I would of hoeing
 without meals, for cutting up weeds with a dull hoe is
-like cutting grass with a dull scythe--it is the hardest of
+like cutting grass with a dull scythe—it is the hardest of
 all work, while with a sharp hoe it is comparatively easy.
 This is one reason why many dislike to work in the garden.
-Having ground the hoe, send an experienced man--who
-should be able to strike almost within a hair's
-breadth of a carrot and not hit it--to clip out what
+Having ground the hoe, send an experienced man—who
+should be able to strike almost within a hair’s
+breadth of a carrot and not hit it—to clip out what
 -----File: 013.png---------------------------------------------------------
 weeds he can get at with his hoe, also to thin them as
 much as possible with his hoe, but not to weed with his
@@ -405,17 +405,17 @@ with the fingers is but a small one. Cultivating and hoeing
 should be done when the ground is very dry.
 
 
-<i>Weeding.</i>--Weeding should not be done when the
+<i>Weeding.</i>—Weeding should not be done when the
 ground is very dry, as the weeds are liable to break off
 to sprout again more than when the ground is moist;
 however, if your patch is large continue to weed about
 as fast as you hoe, for fear it will not be done; yet bear
 in mind never to go on your ground when it is wet.
-Now employ boys whom you pay by the row--for then,
-they have a greater stimulus to work--whose backs are
-shorter than men's, and who, if of the proper calibre,
+Now employ boys whom you pay by the row—for then,
+they have a greater stimulus to work—whose backs are
+shorter than men’s, and who, if of the proper calibre,
 will weed as fast as men at much less cost, and do it
-easier. Of course they will want the superintendent's
+easier. Of course they will want the superintendent’s
 eye over them. Thin them at the first weeding to two
 or three inches asunder. I verily believe I can get more
 tons of carrots per acre if they are one foot asunder
@@ -431,7 +431,7 @@ that one acre of carrots can be raised as easily as two of
 corn. It is useless to transplant them.
 
 Do not go among them with a horse after the bottoms
-become the size of a man's finger, for if you muss the
+become the size of a man’s finger, for if you muss the
 tops about at that size you are sure to stunt them. Do
 -----File: 014.png---------------------------------------------------------
 not take from, nor add to the dirt about their bottoms,
@@ -457,10 +457,10 @@ stunt it. No root is so healthy or more sure to grow
 and do well than the carrot, if the instructions of the
 foregoing pages are thoroughly adhered to, and they
 excel all other crops after the root begins to show, in
-"standing" excessively dry or wet weather.
+“standing” excessively dry or wet weather.
 
 
-<i>Digging.</i>--Let them remain in the ground as long as
+<i>Digging.</i>—Let them remain in the ground as long as
 you dare for fear of warm weather, as they will keep
 best in the ground till quite late; however, if you have
 a large patch begin in time to secure them before the
@@ -479,7 +479,7 @@ in heaps of about thirty bushels, that they may go through
 the sweating or drying process. Three or four days before
 putting into the cellar, or hole (so ought you with any
 root), then cover them with the said tops to keep them
-dry; still the tops are poor things to keep the frost out--straw
+dry; still the tops are poor things to keep the frost out—straw
 is better, unless you wish to sell them, in which
 case get them off as soon as possible, for they will
 weigh more when first dug, for after being above ground
@@ -523,11 +523,11 @@ ninety-five bushels in one day, although it was a short
 day of November.
 
 After they are dug carrots are the pleasantest of all
-roots to handle, easily "picked up," quite light to carry,
+roots to handle, easily “picked up,” quite light to carry,
 and very accurately measured in a large basket.
 
 
-<i>Storing.</i>--After they have remained in heaps above
+<i>Storing.</i>—After they have remained in heaps above
 ground and dried thoroughly, which is the whole secret
 of having them keep well through the winter, they
 may be put in the cellar in a large bin with impunity,
@@ -549,7 +549,7 @@ you get them secured, throw some dirt upon them till
 -----File: 017.png---------------------------------------------------------
 the frost is out, or take them to the cellar as quickly as
 possible, to escape the sun, and likewise put on a little
-dirt. This page is also mostly applicable to the 42d[*P1: 42nd?] degree
+dirt. This page is also mostly applicable to the 42d degree
 of latitude.
 
 On Long Island carrots are buried without straw,
@@ -558,7 +558,7 @@ of burying will do on a sandy soil, but I think not on a
 soil of loam.
 
 
-<i>The value of Carrots.</i>--It is generally admitted that
+<i>The value of Carrots.</i>—It is generally admitted that
 the carrot is the most nutritious of all roots. But the
 great desideratum has been it takes so much time and
 patience to raise them, and many have concluded and
@@ -583,7 +583,7 @@ cream.
 Sheep are very fond of them and fatten fast. Hogs
 will winter well on them, better if boiled. With boiled
 carrots, and one quart of meal per day, I will make a
-three hundred store[**stone?] hog so fat, that a man of seventy-five
+three hundred stone hog so fat, that a man of seventy-five
 years can catch him in an open field. Then for a fine
 pie they are first in the catalogue of kitchen vegetables,
 -----File: 018.png---------------------------------------------------------
@@ -591,8 +591,8 @@ likewise for coffee, pickles, soup, &c., &c. A clip from
 the <i>Country Gentleman</i> by this Author:
 
 /#
-<sc>Carrots versus other Roots.</sc>--Your correspondent
-J. V. K., Seneca Falls, N. Y., wishes a "short account,"
+<sc>Carrots versus other Roots.</sc>—Your correspondent
+J. V. K., Seneca Falls, N. Y., wishes a “short account,”
 &c., about raising turnips, beets and carrots for dairy
 use. You have appended some useful remarks in answer.
 Please allow me to add a few more. I have been
@@ -600,9 +600,9 @@ engaged in root raising to the extent of many hundred
 bushels each year for several years, both for my farm
 stock and marketing. I have experimented in French
 turnips, beets and carrots, and consider the carrot decidedly
-superior to any other root. Reasons--Beets require as
-much labor as carrots--no, say you, but you
-do not know my mode of raising carrots yet--they
+superior to any other root. Reasons—Beets require as
+much labor as carrots—no, say you, but you
+do not know my mode of raising carrots yet—they
 must needs be transplanted; they wither more after
 pulling, will not keep as long, are superior for no stock
 to the carrot; horses do not love them; they will not
@@ -615,11 +615,11 @@ dried. These same remarks are also applicable to
 the turnip, except that they are easier raised than either
 beet or carrot. But even the beet far surpasses
 them for milk or fattening; they require cutting, and
-then seem to hurt the creature's mouth. Hogs do
+then seem to hurt the creature’s mouth. Hogs do
 not like them except boiled, and then are not eager
 for them, while they can be well wintered with either
 of the first two. With boiled carrots and one quart of
-meal per day, I will fatten a three hundred store[**stone?] hog so
+meal per day, I will fatten a three hundred stone hog so
 fat that a man of seventy-five years can catch him in an
 open field. Besides, carrots are the cleanest root (if dug
 when the ground is dry, as they should be), and lighter
@@ -628,16 +628,14 @@ reasons I have ignored raising other roots besides the
 carrot, except, perhaps, a few French turnips after some
 early crop, rather than have the ground go to weeds,
 and even then I think perhaps it is better to plant the
-ground to marrowfat beans, unless a few turnips are de-*
-#/
+ground to marrowfat beans, unless a few turnips are desired
 -----File: 019.png---------------------------------------------------------
-/#
-*sired for table use. I have not spoken of field turnips.
-I always raise what I can of them, for they don't cost
+for table use. I have not spoken of field turnips.
+I always raise what I can of them, for they don’t cost
 much, and are not worth much.
 
-A word in regard to the aforesaid idea that "carrots
-can be raised easier than any other root." I find that
+A word in regard to the aforesaid idea that “carrots
+can be raised easier than any other root.” I find that
 I can raise one acre of carrots as easy as two of corn; or
 at the expense of ten cents per bushel, believing that the
 tops for stock will pay for gathering. In abstracting
@@ -662,7 +660,7 @@ of the past century.
 #/
 
 
-<i>How to raise and clean the Seed.</i>--This, too, is very
+<i>How to raise and clean the Seed.</i>—This, too, is very
 profitable far from cities where good land is cheap, for
 I estimate with proper care $200 or $300 worth can
 be grown to the acre. Set them out as early as the
@@ -689,7 +687,7 @@ other year, as they will then grow much more prolific,
 both as regards raising the root or seed.
 
 
-<i>How to select good Seed.</i>--New seed is of a deep green
+<i>How to select good Seed.</i>—New seed is of a deep green
 color, and should be plump and even in size. Old seed
 is of a yellowish hue, and dead cast, and is much longer
 germinating than new seed. In fine, never sow old
@@ -704,9 +702,9 @@ entirely so, a large percentage almost invariably is old
 seed.
 
 
-<i>A true Saying.</i>--Take care of the weeds, for "one
-year's seeding, makes seven year's weeding." This remark
-should ever be fresh in the gardener's mind.
+<i>A true Saying.</i>—Take care of the weeds, for “one
+year’s seeding, makes seven year’s weeding.” This remark
+should ever be fresh in the gardener’s mind.
 -----File: 021.png---------------------------------------------------------
 
 
@@ -721,7 +719,7 @@ quickest returns if managed according to the following
 pages.
 
 In latitude north of 41° but one crop in a season
-should be attempted, in which case the "winter drumhead"
+should be attempted, in which case the “winter drumhead”
 variety is probably the most profitable, and the
 most marketable. In more southern latitudes the Sugar
 Loaf and Early York are probably the best early varieties,
@@ -754,7 +752,7 @@ either use or sell them. However, I assert that I
 can make them head if the soil will grow them in time.
 
 
-<i>Transplanting.</i>--Do not perform this when the
+<i>Transplanting.</i>—Do not perform this when the
 ground is wet. <i>Here</i> is where I differ from all other
 cultivators. Do not allow an animal or human being upon
 the ground when it is wet, if you do, look for hard and
@@ -802,7 +800,7 @@ neglect of which will result in the loss of many plants.
 In this way, in the middle of a hot day, I have set out
 four hundred plants per hour, when two successive hot
 days followed, and not over five per cent. of the plants
-even wilted from the effects of the sun's rays. The
+even wilted from the effects of the sun’s rays. The
 ground was free from lumps and loose all about the
 plants the season through. When gathering time came
 those which were thus set out had nearly double the
@@ -828,28 +826,28 @@ that you may go among them with a horse, but that
 way have them precisely straight, the utility of which
 will become manifest when you come to cultivate. If
 the grubs eat them, sprinkle them every third morning
-while the dew is on with a little dust of ashes--say a
+while the dew is on with a little dust of ashes—say a
 teaspoonful. Where one is eaten off take the trouble to
 dig out the grub, or he is liable to take off several successive
 ones.
 
 
-<i>Tilling.</i>--The plants should be hoed a little about
+<i>Tilling.</i>—The plants should be hoed a little about
 the third morning after they are set out, and then scratch
-about them a little every week--if oftener it's all the better.
+about them a little every week—if oftener it’s all the better.
 Stir the ground deeply, at least twice with the plow.
 Till them in the morning, though a bean never should
 be tilled in the morning. It is not necessary to go
 among them with a horse till the leaves become as large
 as your hand, when stir the ground deeply; deep culture
 is the great desideratum with any good crop. See to it
-that you strike the corner of your hoe down deeply beside[**hyphenated?]
+that you strike the corner of your hoe down deeply beside
 the young plants, that the side rootlets may be
 unobstructed in their course. Early cabbage may be
 planted nearer than two feet.
 
 
-<i>Heading Cabbage.</i>--The most important part, for a
+<i>Heading Cabbage.</i>—The most important part, for a
 good crop, is yet to be performed. After having tilled
 them enough, you can yet make half difference in
 number and bulk of heads. You have hoed often and
@@ -877,7 +875,7 @@ the mixture till the cabbage has its height, you may
 grow tall cabbage but not the bulk of heads.
 
 
-<i>Cabbage Lice.</i>--During the seasons of 1864 and '65,
+<i>Cabbage Lice.</i>—During the seasons of 1864 and ’65,
 it being so dry, they were great pests. They are of a
 slate color, with many legs, greatly inclined to assemblages,
 and very hardy, for a severe frost does not seem
@@ -895,7 +893,7 @@ particles of fine coal, &c., will be found in the head.
 -----File: 026.png---------------------------------------------------------
 
 
-<i>Gathering.</i>--Let them stand (your winter heads) till
+<i>Gathering.</i>—Let them stand (your winter heads) till
 you fear the ground will freeze so hard that you cannot
 pull them. Two inches of frost (that is, when the
 ground freezes two inches,) will not hurt the heads if
@@ -916,7 +914,7 @@ cut out the heads as you like. But you need not expect
 them to keep hard long unless the root is retained. The
 leaves and stumps are excellent for stock, being green at
 a time when nearly all else is frost-bitten, and will go
-far in paying for raising the crop--a half acre bearing
+far in paying for raising the crop—a half acre bearing
 many side board loads of fine, fresh leaves, as refuse from
 the marketable heads.
 
@@ -940,7 +938,7 @@ and covered as before, in northern latitudes, but in southern
 latitudes a dirt covering is sufficient, leaving the
 roots to the air. They should never be thrown promiscuously
 in the cellar as they will wilt, and then they
-are poor food. For winter's use put the roots in dirt in
+are poor food. For winter’s use put the roots in dirt in
 the cellar, guarding against mice and rats. A good
 plan is to put the roots in a tub filled in with dirt, then
 you have fresh cabbage at any time. In short, properly
@@ -950,7 +948,7 @@ other garden crops rotation is necessary. <i>Remember and
 not use hog manure for cabbage, lest they head in the ground.</i>
 
 
-<i>Five acres enough.</i>--Thus with five acres of good
+<i>Five acres enough.</i>—Thus with five acres of good
 land well manured, and planted to carrots and cabbage,
 tilled and harvested according to the instructions of this
 pamphlet, any industrious and saving man, with, or
@@ -997,14 +995,14 @@ them, providing he does not bestow any more labor than
 I in tilling.
 
 
-<i>To make plenty of manure for these vegetables.</i>--This is
+<i>To make plenty of manure for these vegetables.</i>—This is
 a great desideratum in raising vegetables. In gardening
 five acres I think I could make my own manure from
 that alone, and surely if I could have access to muck, I
 -----File: 029.png---------------------------------------------------------
 would plant say four acres to carrots and cabbage (say
 I will raise only these vegetables for my selling crop).
-Now, I should want for mine and family's use, a horse,
+Now, I should want for mine and family’s use, a horse,
 cow and hog, which I should keep in the following way:
 I would sow in drills a half acre of corn thickly for
 fodder, running through it a little with cultivator and
@@ -1030,28 +1028,28 @@ to success and wealth, with economy and health,
 would surely appear.
 
 
-<i>Every man his own Barometer.</i>--In connection with
+<i>Every man his own Barometer.</i>—In connection with
 gardening, it is very essential that we be able, with a
 degree of certainty, to foretell the weather, which, in
 nine times out of ten we may do about as accurately
 as the mercurial barometer, by philosophizing with
-nature's laws, and certain time-honored observations
+nature’s laws, and certain time-honored observations
 called signs of the weather. I will notice some of the
 -----File: 030.png---------------------------------------------------------
 indications of a storm. The clouds look heavy and red
 in the east at early morn. The smoke settles to the
 ground. You smell what they are cooking in yonder
 house. The sun comes forth at sunrise, giving a white
-light, and soon disappears in the clouds. "Thunder in
-the morning, sailors take warning." The fowls get on
+light, and soon disappears in the clouds. “Thunder in
+the morning, sailors take warning.” The fowls get on
 the fence and pick themselves. The ducks skip in the
-water. Stock is dainty about eating. "The fog runs
-up hopping--the rain comes down dropping." Tobacco
-leaves are limber. Circle around the sun or moon--however,
-if stars can be seen in the moon's circle the
+water. Stock is dainty about eating. “The fog runs
+up hopping—the rain comes down dropping.” Tobacco
+leaves are limber. Circle around the sun or moon—however,
+if stars can be seen in the moon’s circle the
 storm is in the distance. The sun draws water. A
 rainbow in the morning. If it rains when the sun
-shines, look for a three days' rain, and of a surety the
+shines, look for a three days’ rain, and of a surety the
 next day. The dog eats grass. The stones under the
 grass and in the cellar are moist. The outside of the
 tin pail or jug sweats, as we say. You observe the
@@ -1065,7 +1063,7 @@ the room. After a storm, if it clears in nighttime, we
 may expect a storm soon again. If the swallows fly
 near the ground we may expect a storm near at hand.
 Fish jump out of the water. Water boils away rapidly.
-The hair of stock looks smooth. We smell the skunk--smell
+The hair of stock looks smooth. We smell the skunk—smell
 the sweat of horses when riding along. The
 tree toad hollows. But the best indication of all is the
 following. If, upon blowing out your candle at night,
@@ -1085,23 +1083,23 @@ of a storm in summer, we will look about to notice some
 of the fair weather signs. The sky and sun look red at
 night. If it rains very early in the morning (not having
 rained during the night) generally look for a good day.
-"If it rains before seven it will clear before eleven," is
+“If it rains before seven it will clear before eleven,” is
 quite a <i>reliable</i> saying. Whirlwinds are almost sure
 signs of dry weather. Now the wind gets in the north,
 the fog moves southward, and the sun appears but not
 drawing water. The lark comes forth with her song,
-and every piece of nature's handiwork seems, as it were,
+and every piece of nature’s handiwork seems, as it were,
 to throw off its shackles of solitude; cognizant that the
 king of day will reign, however terrible may have been
 the storm. We need not expect much rain when the
 moon is overhead, however severe may appear the storm.
 Thus, by a little careful observation, we may have a
-miniature barometer in reason's temple, better to be relied
+miniature barometer in reason’s temple, better to be relied
 upon than all the barometrical mechanism conceived
 by the wisdom of man.
 
 
-<i>Weather Sayings.</i>--The direction of the wind at the
+<i>Weather Sayings.</i>—The direction of the wind at the
 vernal equinox, thus it will be most of the season. Long
 icicles indicate deep snows. Three frosts and then a
 rain. When the wild geese go north spring is about to
@@ -1116,20 +1114,20 @@ moons for fairs and concerts, &c. Our heaviest snows
 come from the northwest. If the first snow goes off with
 a rain, all will. So many fogs in February, so many
 frosts in May, and about the same day of the month. A
-winter fog will freeze a dog--that is, in a few days. A
+winter fog will freeze a dog—that is, in a few days. A
 storm will not amount to much when the moon is overhead.
 A cold, wet May fills the barn with grain and
 hay. Thunder in spring is indicative of cold weather.
 If chanticleer crows on his roost at evening, there will
 be a change in the weather before morning. In winter,
 after a storm, the second clear day is the coldest. If
-grass grows in March, it will be frozen in May--applicable
+grass grows in March, it will be frozen in May—applicable
 to northern latitudes. When the whippoorwill
 hollows, expect warm weather. The second of
 February is Candlemas day. So far as the sun shines in so
-far the snow will blow in--applicable to northern latitudes.
-If it clears off near two o'clock <sc>P. M.</sc>, we may
-expect a fair day to-morrow, if at two o'clock <sc>A. M.</sc>, we
+far the snow will blow in—applicable to northern latitudes.
+If it clears off near two o’clock <sc>P. M.</sc>, we may
+expect a fair day to-morrow, if at two o’clock <sc>A. M.</sc>, we
 had better prepare for another storm. Make ready for a
 severe storm at the vernal and autumnal equinox.
 Weather calculations are subject to so many variations
@@ -1140,15 +1138,13 @@ certainty. With such a strict observance the farmer
 and gardener may often save himself much labor, and
 save his crops from the exposure of the storm.
 -----File: 033.png---------------------------------------------------------
-[Blank Page]
 -----File: 034.png---------------------------------------------------------
-[Blank Page]
 -----File: 035.png---------------------------------------------------------
 
 
 
 
-COOK'S PATENT
+COOK’S PATENT
 
 SPRING WHIFFLETREE
 
@@ -1172,14 +1168,14 @@ The driver does not get hurt with the plow handles.
 
 A horse will draw fifty times without being discouraged.
 
-It serves as a cushion for the horse's breast.
+It serves as a cushion for the horse’s breast.
 
 Springs only when striking an obstruction.
 
 Very durable.
 
 /#
-This appears like a good improvement.--<i>Scientific American.</i>
+This appears like a good improvement.—<i>Scientific American.</i>
 #/
 
 

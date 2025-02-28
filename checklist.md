@@ -100,11 +100,11 @@ _Ten years' experience in raising carrots and cabbage._ by Cook, H. A.
 ## Preliminary Fixup
 
 ### Basic Fixup
-* [ ] Open `Tools → Basic Fixup...`
-* [ ] Correct entries as appropriate
+* [x] Open `Tools → Basic Fixup...`
+* [x] Correct entries as appropriate
 
 ### Fix Block Markups 
-* [ ] Use the `Search` menu to step through all `/* */` blocks.
+* [x] Use the `Search` menu to step through all `/* */` blocks.
   * Regex: `^(/\*|\*/)`
   * Check for a blank line before and after markup
   * Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
@@ -112,7 +112,7 @@ _Ten years' experience in raising carrots and cabbage._ by Cook, H. A.
   * Apply specific [indent value](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Table_Indent) if desired
   * Make sure poetry line numbers are at least two spaces to the right of the line.
 
-* [ ] Use the `Search` menu to step through all `/#..#/` blocks.
+* [x] Use the `Search` menu to step through all `/#..#/` blocks.
   * Regex: `^(/#|#/)`
   * Check for a blank line before and after markup
   * Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
@@ -121,19 +121,19 @@ _Ten years' experience in raising carrots and cabbage._ by Cook, H. A.
   * Apply specific [margin values](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Block_Quote_Indent_and_Margins) if desired
 
 ### Fix Page Formatting
-* [ ] Remove the extra block markers around page boundaries
-* [ ] Join words hyphenated across page boundary
+* [x] Remove the extra block markers around page boundaries
+* [x] Join words hyphenated across page boundary
 * Handle blank pages:
-  * [ ] Check that `[Blank Page]` are blank
-  * [ ] Remove blank pages
+  * [x] Check that `[Blank Page]` are blank
+  * [x] Remove blank pages
 
 ### Fix Footnotes and Illustrations
-* [ ] Fix Footnotes and Illustrations still inside a paragraph
+* [x] Fix Footnotes and Illustrations still inside a paragraph
   * Move outside paragraph to next or prior page, as appropriate
   * Don't worry about duplicate footnote numbers/symbols for now
   * Sidenotes are handled later
 
-* [ ] Use `Tools → Footnote Fixup`. This will help you validate and move any footnotes.
+* [x] Use `Tools → Footnote Fixup`. This will help you validate and move any footnotes.
   * `First Pass`
   * `Next / Prev FN` to navigate
   * Look for `*` and use `Join with Previous` to join them
@@ -141,42 +141,42 @@ _Ten years' experience in raising carrots and cabbage._ by Cook, H. A.
     * Exception: sometimes a footnote is really long (brown)
     * Exception: multiple anchors per footnote can confuse it (teal)
 
-* [ ] Move footnotes between paragraphs
+* [x] Move footnotes between paragraphs
   * `Footnote Fixup`, `First Pass`
   * `All to Number`, `Reindex`
   * `First Pass`, `Move FNs to Para`
 
 ### Fix Sidenotes
-* [ ] Step through sidenotes
+* [x] Step through sidenotes
   * Read the [discussion](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Sidenotes).
   * Search & Replace of `[S`, not regex, not whole word, ignore case. Click `Search` to find each Sidenote.
-* [ ] Compare to page image. Move note above paragraph if feasible.
+* [x] Compare to page image. Move note above paragraph if feasible.
   * Otherwise, position it above the sentence to which it applies, with blank lines to prevent rewrapping if you decide that is best.
 
 ### Fix Poetry Line Numbers
-* [ ] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
+* [x] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
 
 ## Preliminary Corrections
 
 ### Errata
-* [ ] If original book had errata, apply it and note in TN
+* [x] If original book had errata, apply it and note in TN
 
 ### Fix Proofer Comments
-* [ ] `Search → Find Next Proofer Comment`. Resolve all proofer's notes.
-* [ ] `Search → Find Orphaned DP Markup`.
+* [x] `Search → Find Proofer Comments`.
+  * [x] Resolve all proofer's notes.
 
 ### Fix Front Matter
-* [ ] Edit the TOC. Find each matching chapter head; make sure heads are 1:1 with TOC. Note that your TOC will probably need to be indented to prevent rewrapping, particularly if you use multiple spaces to align page numbers.
-* [ ] If book has illustrations, edit or create *List of Illustrations* (**Note:** this is not a requirement). Make sure it is 1:1 with `[Illustration]` captions.
+* [x] Edit the TOC. Find each matching chapter head; make sure heads are 1:1 with TOC. Note that your TOC will probably need to be indented to prevent rewrapping, particularly if you use multiple spaces to align page numbers.
+* [x] If book has illustrations, edit or create *List of Illustrations* (**Note:** this is not a requirement). Make sure it is 1:1 with `[Illustration]` captions.
 
 ### Unicode dashes
-* [ ] Long dash: S/R `([^-])----([^-]|$)` → `\1——\2`
+* [x] Long dash: S/R `([^-])----([^-]|$)` → `\1——\2`
   * There exists a “long dash” Unicode character (TWO-EM DASH, U+2E3A). However, display support for it is not broad, so it’s better to use two consecutive EM DASH, which is widely supported.
 
-* [ ] Em dash: S/R `([^-])--([^-]|$)` → `\1—\2`
+* [x] Em dash: S/R `([^-])--([^-]|$)` → `\1—\2`
   * There exists another dash (HORIZONTAL BAR, U+2015) which one PM/PP prefers to EM DASH (using two bars for one EM DASH), based on appearance in text version. I opted not to use this in favor of using the EM DASH character in both text and HTML.
 
-* [ ] [En dash](https://www.pgdp.net/wiki/En-dash): S/R `([^-])-([^-]|$)` → `\1–\2`
+* [x] [En dash](https://www.pgdp.net/wiki/En-dash): S/R `([^-])-([^-]|$)` → `\1–\2`
   * Range of numbers `12–15`
   * Mathematical minus sign `15 – 12 = 3`
   * Negative numbers `–14º`
@@ -185,57 +185,57 @@ _Ten years' experience in raising carrots and cabbage._ by Cook, H. A.
 * Any dashes not covered above are simple hyphens.
 
 ### Convert to Curly Quotes
-* [ ] `Tools → Convert to Curly Quotes`.
-  * [ ] Correct any issues
-* [ ] Search for remaining upright single quotation marks and replace them with either a ‘ or a ’.
-* [ ] Check for lingering straight quotes: `['"]`
-* [ ] `Tools → Check Curly Quotes`
-  * [ ] Correct any issues
-* [ ] Validate quotes pairings by searching for `[“”‘’]`
+* [x] `Tools → Convert to Curly Quotes`.
+  * [x] Correct any issues
+* [x] Search for remaining upright single quotation marks and replace them with either a ‘ or a ’.
+* [x] Check for lingering straight quotes: `['"]`
+* [x] `Tools → Check Curly Quotes`
+  * [x] Correct any issues
+* [x] Validate quotes pairings by searching for `[“”‘’]`
 
 ## Tool Checks
 
 ### Apply Word-Frequency Checks
-* [ ] Open `Tools → Word Frequency`
+* [x] Open `Tools → Word Frequency`
   * Double click on a word to search for it.
-* [ ] Set the `Frq` switch; click `All Words`. List is now sorted by word frequency; scroll to the end and skim up the list of words that only appear 1 time looking for oddities and obvious misspellings.
-* [ ] Click `Character Cnts`.
+* [x] Set the `Frq` switch; click `All Words`. List is now sorted by word frequency; scroll to the end and skim up the list of words that only appear 1 time looking for oddities and obvious misspellings.
+* [x] Click `Character Cnts`.
   * Note characters that appear only once, check usage.
   * Check for equal counts of left & right parens and brackets.
-* [ ] Set the `Alph` switch; click `All Words`. Scroll to the word Footnote and write down count for later use. (If the count is large, click once on Footnote and click 1st Harm. The harmonic window shows you any of the common misspellings of "Footnote" that occur.)
-* [ ] Click `Emdashes`. This shows words with emdashes in them as well as similar words without emdashes (aka: suspects) marked with `****`. Check suspects against the text and page images. Preserve author's intent even when inconsistent. **Hint**: Enable the `Suspects` flag and click `Emdashes` again to see only suspects words.
-* [ ] Click `Hyphens`. Same as Emdashes above but for Hyphens.
-* [ ] Click `Alpha/num`. Scan list for `one/ell` and `oh/zero` errors.
-* [ ] Click `ALL CAPS`. Scan list looking for oddities.
-* [ ] Click `MiXeD CasE`. Scan list looking for letters such as o that sometimes OCR wrongly as uppercase. `Oh/zero` errors can show up here, too.
-* [ ] Click `Check Accents`. Scan list looking for mistakes, inconsistent usages.
-* [ ] Click `Check , Upper`. Scan list for comma-for-period errors.
-* [ ] Click `Check . Lower`. Scan list for period-for-comma errors.
-* [ ] Click `Ital/Bold/SC`. Scan list for incorrect or inconsistent use of italics, bold face, and small caps.
-* [ ] Click `Ligatures`. Scan list for [incorrect or inconsistent use](https://www.pgdp.net/wiki/Æ_and_œ_ligatures) of `ae` and `oe` ligatures.
+* [x] Set the `Alph` switch; click `All Words`. Scroll to the word Footnote and write down count for later use. (If the count is large, click once on Footnote and click 1st Harm. The harmonic window shows you any of the common misspellings of "Footnote" that occur.)
+* [x] Click `Emdashes`. This shows words with emdashes in them as well as similar words without emdashes (aka: suspects) marked with `****`. Check suspects against the text and page images. Preserve author's intent even when inconsistent. **Hint**: Enable the `Suspects` flag and click `Emdashes` again to see only suspects words.
+* [x] Click `Hyphens`. Same as Emdashes above but for Hyphens.
+* [x] Click `Alpha/num`. Scan list for `one/ell` and `oh/zero` errors.
+* [x] Click `ALL CAPS`. Scan list looking for oddities.
+* [x] Click `MiXeD CasE`. Scan list looking for letters such as o that sometimes OCR wrongly as uppercase. `Oh/zero` errors can show up here, too.
+* [x] Click `Check Accents`. Scan list looking for mistakes, inconsistent usages.
+* [x] Click `Check , Upper`. Scan list for comma-for-period errors.
+* [x] Click `Check . Lower`. Scan list for period-for-comma errors.
+* [x] Click `Ital/Bold/SC`. Scan list for incorrect or inconsistent use of italics, bold face, and small caps.
+* [x] Click `Ligatures`. Scan list for [incorrect or inconsistent use](https://www.pgdp.net/wiki/Æ_and_œ_ligatures) of `ae` and `oe` ligatures.
   * ```text
     æ Æ    <Opt> '    /ai/ to rhyme with “eye”.
     œ Œ    <Opt> q    /ɔɪ/ to rhyme with “oi” in “foil”
     <shift> for capital letter
     ```
-* [ ] Look for missed ligature / diacritical transliterations. Regex: `\[[^*]`
+* [x] Look for missed ligature / diacritical transliterations. Regex: `\[[^*]`
 
 ### Apply Bookloupe
-* [ ] Open `Tools → Bookloupe...`
+* [x] Open `Tools → Bookloupe...`
   * Forward slash
   * HTML tag
   * No CR
   * Non-ASCII character
   * Non-ISO-8859 character
-* [ ] Correct entries as appropriate
+* [x] Correct entries as appropriate
 
 ### Apply Spellcheck
-* [ ] Use `Tools → Spelling...`
-* [ ] Correct words or add them to the project dictionary as appropriate.
+* [x] Use `Tools → Spelling...`
+* [x] Correct words or add them to the project dictionary as appropriate.
 
 ### Apply PPtxt
-* [ ] Use `Tools → PPtxt...`
-* [ ] Correct entries as appropriate
+* [x] Use `Tools → PPtxt...`
+* [x] Correct entries as appropriate
 
 ### Apply Jeebies
 * [ ] Use `Tools → Jeebies...`

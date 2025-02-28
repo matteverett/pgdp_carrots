@@ -43,12 +43,17 @@ There should be nothing else out of the ordinary, if you have any questions, ask
 * [ ] Back Cover
 
 ### Proofer's notes ###
+* p. 02: "New York": in blackletter -- do anything about it?
+* Major disconnects between sections and ToC
 
 ### Joined hyphenated words ###
 
 ### Spellcheck ###
 
 ### Transcriber's notes ###
+
+* p. 16 | three hundred sto[r/n]e hog so fat, that a man of seventy-five | Replaced.
+* p. 18 | meal per day, I will fatten a three hundred sto[r/n]e hog so | Replaced.
 
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 
