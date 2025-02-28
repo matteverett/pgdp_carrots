@@ -32,7 +32,15 @@ There should be nothing else out of the ordinary, if you have any questions, ask
 
 ### Other languages ###
 
+* N/A
+
 ### Illustrations ###
+
+* [ ] Front Cover
+* [ ] Title Page
+* [ ] p. 3 Decoration
+* [ ] p. 5 Decoration
+* [ ] Back Cover
 
 ### Proofer's notes ###
 
