@@ -238,50 +238,50 @@ _Ten years' experience in raising carrots and cabbage._ by Cook, H. A.
 * [x] Correct entries as appropriate
 
 ### Apply Jeebies
-* [ ] Use `Tools → Jeebies...`
-* [ ] Examine its report of possible `he/be` errors
-* [ ] Correct entries as appropriate
+* [x] Use `Tools → Jeebies...`
+* [x] Examine its report of possible `he/be` errors
+* [x] Correct entries as appropriate
 
 ### Apply Stealth Scannos
-* [ ] Use `Tools → Stealth Scannos` with `Auto Advance`.
-  * [ ] Start scanno searching based on `en-commn.rc`. Work through the list.
-  * [ ] Apply scanno searching based on `regex.rc`. Work through the list.
-* [ ] Correct entries as appropriate
+* [x] Use `Tools → Stealth Scannos` with `Auto Advance`.
+  * [x] Start scanno searching based on `en-commn.rc`. Work through the list.
+  * [x] Apply scanno searching based on `regex.rc`. Work through the list.
+* [x] Correct entries as appropriate
 
 ### Apply Word Distance Check
-* [ ] Use `Tools → Word Distance Check...`
-* [ ] Correct entries as appropriate
+* [x] Use `Tools → Word Distance Check...`
+* [x] Correct entries as appropriate
 
 ### Misc Checks
-* [ ] Check for chapter/section spacing. Regex: `\n\n\n`
-* [ ] Check spaces around hyphens. Regex: `(\s+-|-\s+)`
-* [ ] Check spaces before punctuation. Regex: `\s+[.!?;:,]`
-* [ ] Check spaces around quotes. Regex: `(\s+['"][^\s]|[^\s]['"]\s+)`
-* [ ] Check spaces around brackets. Regex: `(\s+[({[\]})]|[({[\]})]\s+)`
-* [ ] Search regex `(Dr|M(me|lle|essrs|rs?)|St|Fr|Rev)\s` and add missing period if needed
-* [ ] Check `A.M.`, `P.M.` and similar for spacing to match book - regex: `[AP]\.\s*M\.`
+* [x] Check for chapter/section spacing. Regex: `\n\n\n`
+* [x] Check spaces around hyphens. Regex: `(\s+-|-\s+)`
+* [x] Check spaces before punctuation. Regex: `\s+[.!?;:,]`
+* [x] Check spaces around quotes. Regex: `(\s+['"][^\s]|[^\s]['"]\s+)`
+* [x] Check spaces around brackets. Regex: `(\s+[({[\]})]|[({[\]})]\s+)`
+* [x] Search regex `(Dr|M(me|lle|essrs|rs?)|St|Fr|Rev)\s` and add missing period if needed
+* [x] Check `A.M.`, `P.M.` and similar for spacing to match book - regex: `[AP]\.\s*M\.`
   * Note these to do `&nbsp;` in HTML, to avoid line wrap mid-abbreviation
-* [ ] Does book use small-caps A.D. B.C.?
+* [x] Does book use small-caps A.D. B.C.?
   * Search `[A-Z]\.\s*[A-Z]\.`, add `<sc>` and note for `&nbsp;` if needed
-* [ ] Check for multiple consecutive spaces which are not in a no-wrap block
-* [ ] Look at `<tb>` and look for improper uses
-* [ ] Check all ellipses. Regex: `\.\.\.`
-* [ ] Check for 3 dashes (not either 2 or 4). Regex: `[^-]---[^-]`
-* [ ] Look for spaces around em- or long-dash. Regex: `\s+--(--)?\s+`
-* [ ] Check adjacent letters and numbers. Regex: `([0-9][A-Za-z]|[A-Za-z][0-9])`
-* [ ] Superscripts (search `^` without regex). Can use `^` or `^{th}` form
+* [x] Check for multiple consecutive spaces which are not in a no-wrap block
+* [x] Look at `<tb>` and look for improper uses
+* [x] Check all ellipses. Regex: `\.\.\.`
+* [x] Check for 3 dashes (not either 2 or 4). Regex: `[^-]---[^-]`
+* [x] Look for spaces around em- or long-dash. Regex: `\s+--(--)?\s+`
+* [x] Check adjacent letters and numbers. Regex: `([0-9][A-Za-z]|[A-Za-z][0-9])`
+* [x] Superscripts (search `^` without regex). Can use `^` or `^{th}` form
   * Add TN to text version about this superscript notation
 
 ### Add Transcriber's Notes
-* [ ] Add Transcriber's Notes to the end of the book
+* [x] Add Transcriber's Notes to the end of the book
 
 ### Final Check
-* [ ] Look at the revisit list for anything to handle
-* [ ] Check for unexpected `*` to make sure no stray proofer notes or split-word/fn markers were missed
+* [x] Look at the revisit list for anything to handle
+* [x] Check for unexpected `*` to make sure no stray proofer notes or split-word/fn markers were missed
 
 ### Save Edited Markup
-* [ ] Save any unsaved changes
-* [ ] Sync with github repository
+* [x] Save any unsaved changes
+* [x] Sync with github repository
 
 ### Validation
 * [ ] Run [PWBB](https://www.pgdp.net/ppwb/index.php) pptext check
