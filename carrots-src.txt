@@ -117,8 +117,8 @@ CARROTS AND CABBAGE.
 
 BY
 
-H.&nbsp;A. COOK,
-Hillsdale, Col. Co., N.&nbsp;Y.
+H.\ A. COOK,
+Hillsdale, Col. Co., N.\ Y.
 
 [Illustration]
 
@@ -134,7 +134,7 @@ New York:
 /*
 Entered according to Act of Congress, in the year 1866, by
 
-H.&nbsp;A. COOK,
+H.\ A. COOK,
 
 In the Clerk’s Office of the District Court of the United States for the Southern
 District of New York.
@@ -641,7 +641,7 @@ the <i>Country Gentleman</i> by this Author:
 
 /#
 <sc>Carrots versus other Roots.</sc>—Your correspondent
-J.&nbsp;V.&nbsp;K., Seneca Falls, N.&nbsp;Y., wishes a “short account,”
+J.\ V.\ K., Seneca Falls, N.\ Y., wishes a “short account,”
 &c., about raising turnips, beets and carrots for dairy
 use. You have appended some useful remarks in answer.
 Please allow me to add a few more. I have been
@@ -702,7 +702,7 @@ patch, ought to be classed among the old fogy farmers
 of the past century.
 
 /*
-<sc>H.&nbsp;A. Cook.</sc>
+<sc>H.\ A. Cook.</sc>
 
 <i>Hillsdale, Dec. 4, 1865.</i>
 */
@@ -1175,8 +1175,8 @@ to northern latitudes. When the whippoorwill
 hollows, expect warm weather. The second of
 February is Candlemas day. So far as the sun shines in so
 far the snow will blow in—applicable to northern latitudes.
-If it clears off near two o’clock <sc>P.&nbsp;M.</sc>, we may
-expect a fair day to-morrow, if at two o’clock <sc>A.&nbsp;M.</sc>, we
+If it clears off near two o’clock <sc>P.\ M.</sc>, we may
+expect a fair day to-morrow, if at two o’clock <sc>A.\ M.</sc>, we
 had better prepare for another storm. Make ready for a
 severe storm at the vernal and autumnal equinox.
 Weather calculations are subject to so many variations
@@ -1229,6 +1229,6 @@ This appears like a good improvement.—<i>Scientific American.</i>
 
 
 /*
-<b>H.&nbsp;A. COOK</b>, Patentee.
-HILLSDALE, COL. CO., N.&nbsp;Y.
+<b>H.\ A. COOK</b>, Patentee.
+HILLSDALE, COL. CO., N.\ Y.
 */
