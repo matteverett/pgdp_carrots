@@ -290,12 +290,12 @@ _Ten years' experience in raising carrots and cabbage._ by Cook, H. A.
 ## Create Ppgen File
 
 ### Add Front Matter
-* [ ] Add `frontmatter.txt` to the start of the file.
+* [x] Add `frontmatter.txt` to the start of the file.
 
 ### Join page boundaries
-* [ ] Replace page boundaries with `.pm new-page`
+* [x] Replace page boundaries with `.pm new-page`
   * Search Regex: `-----File: (\d\d\d).png---------------------------------------------------------`
-  * Replace with: `.pm new-page-break $1`
+  * Replace with: `.pm new-page $1`
 
 ### Insert Breaks
 * [ ] Insert chapter and section breaks as appropriate

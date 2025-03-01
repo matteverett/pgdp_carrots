@@ -50,8 +50,6 @@
 .bn 001.png
 .pn 1
 
------File: 001.png---------------------------------------------------------
-
 
 
 
@@ -105,7 +103,7 @@ Every Man his own Barometer,      28
 
 Weather Sayings, &c.,      30
 */
------File: 002.png---------------------------------------------------------
+.pm new-page-break 002
 
 
 
@@ -128,7 +126,7 @@ New York:
 <sc>Brown & Hewitt, Printers, 37 Park Row</sc>.
 1866.
 */
------File: 003.png---------------------------------------------------------
+.pm new-page-break 003
 
 
 
@@ -141,7 +139,7 @@ H.&nbsp;A. COOK,
 In the Clerk’s Office of the District Court of the United States for the Southern
 District of New York.
 */
------File: 004.png---------------------------------------------------------
+.pm new-page-break 004
 
 
 
@@ -171,7 +169,7 @@ and lastly a plan to gather them more easily.
 After having reduced my experiments to a system, and
 found that I could raise them with less than half the
 expense of the old way, I conceived the idea of putting
------File: 005.png---------------------------------------------------------
+.pm new-page 005
 my plan of raising in the form of a pamphlet, and disclosing
 it to the world. While raising carrots I also
 experimented on cabbages, and found them also to be a
@@ -184,7 +182,7 @@ my valuable composition (which is simple, cheap, and
 in the reach of all) for the heads, which augments the
 crop by half at least. Here, reader, I will leave you to
 peruse the following pages.
------File: 006.png---------------------------------------------------------
+.pm new-page-break 006
 
 
 
@@ -221,7 +219,7 @@ winter’s frost. Hog manure composted with swamp
 muck is the best. If from necessity you must manure
 in spring, look to it that your manure has no weed-seed
 in it.
------File: 007.png---------------------------------------------------------
+.pm new-page 007
 
 Never put carrots two years in succession upon the
 same ground, for they seem to be very exhausting to
@@ -261,7 +259,7 @@ remarks are applicable to the 42d° of latitude. Plow
 deeply, as they will root as deeply as you plow, if the
 soil extends as far. Level the ground that you may
 cover the carrots more uniformly, and that in tilling you
------File: 008.png---------------------------------------------------------
+.pm new-page 008
 may not work the dirt from the carrots in the higher
 places, consequently leave the root protruding above
 ground, nor choke those in lower places by working the
@@ -299,7 +297,7 @@ seed. Three or four days before you wish to sow,
 moisten your seed thoroughly, and set it in a warmish
 place, say on the mantle-piece, near the stove pipe,
 stirring it once a day. If a few seeds should have
------File: 009.png---------------------------------------------------------
+.pm new-page 009
 sprouted a little at sowing time all is well; but be
 cautious that they do not get too dry before covering.
 The best carrots I ever raised, and the most easily tilled,
@@ -336,7 +334,7 @@ sun, and wind it till it becomes non-adhesive; but be
 cautious that you do not dry it back to its original state,
 lest you kill it; however, there is not much danger
 of this; now turn a dinner horn (say about two feet
------File: 010.png---------------------------------------------------------
+.pm new-page 010
 long) bottom up, enlarge the orifice at the lower end
 that the seed will not clog within it. See to it that
 your seed is not too moist, else you cannot sift it through
@@ -371,7 +369,7 @@ it is better to have them come up too thick—for then you
 can pull them out—than too thin, for you cannot transplant
 them and have them do well. By thus sowing
 with a horn you can see if you make a mistake, whereas
------File: 011.png---------------------------------------------------------
+.pm new-page 011
 with a drill you cannot. For this reason I never have
 or will have a drill; besides, if your seed is a little
 moist a drill will clog, therefore with a drill you must
@@ -410,7 +408,7 @@ corn, for they are now two inches above the weeds.
 Loosen the dirt deeply. When a plant is young is the
 time to give it deep tillage, that the fibrous roots can
 shoot out without obstruction—this should be observed
------File: 012.png---------------------------------------------------------
+.pm new-page 012
 in all tillage. What would you think of him who did
 not dig about a tree which he wishes to hastily become
 large, till its fibrous roots had become all twisted by
@@ -447,7 +445,7 @@ This is one reason why many dislike to work in the garden.
 Having ground the hoe, send an experienced man—who
 should be able to strike almost within a hair’s
 breadth of a carrot and not hit it—to clip out what
------File: 013.png---------------------------------------------------------
+.pm new-page 013
 weeds he can get at with his hoe, also to thin them as
 much as possible with his hoe, but not to weed with his
 fingers, for his back is too long, and his time worth too
@@ -484,7 +482,7 @@ corn. It is useless to transplant them.
 Do not go among them with a horse after the bottoms
 become the size of a man’s finger, for if you muss the
 tops about at that size you are sure to stunt them. Do
------File: 014.png---------------------------------------------------------
+.pm new-page 014
 not take from, nor add to the dirt about their bottoms,
 after they become the above size. You will also stunt
 them (somewhat like beans) if you work among them
@@ -521,7 +519,7 @@ clean are certainly worth more for stock. It is not policy
 to feed dirt to any kind of stock, yet the more dirt
 adheres to roots of any kind the better those roots will
 keep.
------File: 015.png---------------------------------------------------------
+.pm new-page 015
 
 Firstly, mow the tops as closely with a scythe as possible,
 and pile in a convenient place to cover over your
@@ -558,7 +556,7 @@ for one to lean on the beam. Now you will turn
 the carrots upon the edge of the last furrow; here you will
 again see the utility of having the rows straight. Take
 a potatoe hook (or which is better, an old potatoe hook
------File: 016.png---------------------------------------------------------
+.pm new-page 016
 which the blacksmith has drawn out to small, long, and
 round tines) and rake the carrots out upon the top of the
 ground to dry. Thus proceed with each row, always
@@ -597,7 +595,7 @@ of the carrot comes to the surface.
 
 Should they freeze in the heaps at digging time before
 you get them secured, throw some dirt upon them till
------File: 017.png---------------------------------------------------------
+.pm new-page 017
 the frost is out, or take them to the cellar as quickly as
 possible, to escape the sun, and likewise put on a little
 dirt. This page is also mostly applicable to the 42d degree
@@ -637,7 +635,7 @@ carrots, and one quart of meal per day, I will make a
 three hundred stone hog so fat, that a man of seventy-five
 years can catch him in an open field. Then for a fine
 pie they are first in the catalogue of kitchen vegetables,
------File: 018.png---------------------------------------------------------
+.pm new-page 018
 likewise for coffee, pickles, soup, &c., &c. A clip from
 the <i>Country Gentleman</i> by this Author:
 
@@ -680,7 +678,7 @@ carrot, except, perhaps, a few French turnips after some
 early crop, rather than have the ground go to weeds,
 and even then I think perhaps it is better to plant the
 ground to marrowfat beans, unless a few turnips are desired
------File: 019.png---------------------------------------------------------
+.pm new-page 019
 for table use. I have not spoken of field turnips.
 I always raise what I can of them, for they don’t cost
 much, and are not worth much.
@@ -726,7 +724,7 @@ is the result. When they are all brown cut them, and
 lay them away in an upper chamber till a cold, north-wind
 day of winter, when lay them upon a tight floor
 and whip off the seed (if you have but a small lot) with
------File: 020.png---------------------------------------------------------
+.pm new-page 020
 a pliant stick. Sort out the stalks, then continue to
 whip the seed till that little fuzz which adheres to
 every seed is entirely separated, then sieve and blow
@@ -756,7 +754,7 @@ seed.
 <i>A true Saying.</i>—Take care of the weeds, for “one
 year’s seeding, makes seven year’s weeding.” This remark
 should ever be fresh in the gardener’s mind.
------File: 021.png---------------------------------------------------------
+.pm new-page-break 021
 
 
 
@@ -795,7 +793,7 @@ most cultivators. I have heard some remark in that latitude
 that they did not wish to set out their winter cabbage
 too early, lest some of them burst before gathering
 time, but it is my observation that he who sowed late
------File: 022.png---------------------------------------------------------
+.pm new-page 022
 was troubled more with false or loose heads in the fall
 than with burst heads, while he has the privilege of taking
 out his heads that get ripe so early as to burst, and
@@ -831,7 +829,7 @@ nor take up too many at a time. Let not over a
 half hour elapse between taking up and setting. Place
 them in a pan with care that you do not dirty nor break
 the leaves (as they are the lungs of the plant). Let the
------File: 023.png---------------------------------------------------------
+.pm new-page 023
 leaves get a pretty good size, as the grub has less time
 to work at them after they are transplanted.
 
@@ -867,7 +865,7 @@ to consider the convenience of transplanting in a dry
 day rather than a wet one, for what gardener has not
 been bedaubed with wet and mud from head to foot
 transplanting cabbage. So much then for our compost
------File: 024.png---------------------------------------------------------
+.pm new-page 024
 on the roots. With beets, tobacco, &c., this compost
 gives the same result.
 
@@ -905,7 +903,7 @@ number and bulk of heads. You have hoed often and
 tilled deeply, which are essential, yea, indispensable to a
 good growth, while in the meantime the leaves can be
 forced to curl up and form the head, and not retard the
------File: 025.png---------------------------------------------------------
+.pm new-page 025
 growth, but, on the contrary, facilitate it. This is done
 by the use of another mixture of salt and plaster, two-thirds
 of the former to one of the latter. When the
@@ -941,7 +939,7 @@ was to sprinkle soot or fine ashes upon them when they
 were damp. The lye of the ashes is more than they
 can stand. The ashes should be finely sifted that no
 particles of fine coal, &c., will be found in the head.
------File: 026.png---------------------------------------------------------
+.pm new-page 026
 
 
 <i>Gathering.</i>—Let them stand (your winter heads) till
@@ -979,7 +977,7 @@ not pressed them too hard, these loose heads will all be
 hard and as fresh as in autumn. Yet it is a question in
 my mind whether they are not worth as much for the
 cow as to bury, considering the labor. Do not open
------File: 027.png---------------------------------------------------------
+.pm new-page 027
 them till the frost has left them, but do it as soon, lest
 they begin to rot. Like all buried vegetation they will
 not keep long after being exposed to the air. It will
@@ -1014,7 +1012,7 @@ low price of twenty cents per bushel. Now, say for the
 last two years, a neighbor and myself have found a home
 market for one thousand bushels at 45 and 60 cents per
 bushel, although the number of inhabitants have but
------File: 028.png---------------------------------------------------------
+.pm new-page 028
 slightly increased. The demand is yearly increasing rapidly,
 till now many farmers think they cannot winter
 stock healthy (verily they cannot) without roots, and have
@@ -1050,7 +1048,7 @@ I in tilling.
 a great desideratum in raising vegetables. In gardening
 five acres I think I could make my own manure from
 that alone, and surely if I could have access to muck, I
------File: 029.png---------------------------------------------------------
+.pm new-page 029
 would plant say four acres to carrots and cabbage (say
 I will raise only these vegetables for my selling crop).
 Now, I should want for mine and family’s use, a horse,
@@ -1086,7 +1084,7 @@ nine times out of ten we may do about as accurately
 as the mercurial barometer, by philosophizing with
 nature’s laws, and certain time-honored observations
 called signs of the weather. I will notice some of the
------File: 030.png---------------------------------------------------------
+.pm new-page 030
 indications of a storm. The clouds look heavy and red
 in the east at early morn. The smoke settles to the
 ground. You smell what they are cooking in yonder
@@ -1121,7 +1119,7 @@ following. If, upon blowing out your candle at night,
 the spark goes out quickly, prepare for a storm and vice
 versa. With the majority of these signs before us, and
 the wind in the South, we had better prepare for a storm.
------File: 031.png---------------------------------------------------------
+.pm new-page 031
 However, all signs fail in a drouth. But drouths are
 few and far between. It is not necessary in this place to
 philosophize upon these indications. Yet if the reader
@@ -1158,7 +1156,7 @@ open, a saying only worthy of notice above the 42d° of
 latitude. A dusty summer, a snowy winter, which will
 only appear in northern latitudes. If winter comes in
 quietly it will go out boldly. If it storms the first
------File: 032.png---------------------------------------------------------
+.pm new-page 032
 Sunday of a month it will storm every Sabbath but one,
 and so with any other day of the week. Choose full
 moons for fairs and concerts, &c. Our heaviest snows
@@ -1188,9 +1186,9 @@ we may predict the weather with quite a reliable
 certainty. With such a strict observance the farmer
 and gardener may often save himself much labor, and
 save his crops from the exposure of the storm.
------File: 033.png---------------------------------------------------------
------File: 034.png---------------------------------------------------------
------File: 035.png---------------------------------------------------------
+.pm new-page 033
+.pm new-page 034
+.pm new-page-break 035
 
 
 
