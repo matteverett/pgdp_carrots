@@ -298,8 +298,8 @@ _Ten years' experience in raising carrots and cabbage._ by Cook, H. A.
   * Replace with: `.pm new-page $1`
 
 ### Insert Breaks
-* [ ] Insert chapter and section breaks as appropriate
-* [ ] Convert `.pm new-page` to `.pm new-page-break` as appropriate
+* [x] Insert chapter and section breaks as appropriate
+* [x] Convert `.pm new-page` to `.pm new-page-break` as appropriate
 
 ### Illustrations
 * [ ] Fixup illustrations:

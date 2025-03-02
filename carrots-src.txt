@@ -50,9 +50,9 @@
 .bn 001.png
 .pn 1
 
+.pm chapter-break
 
-
-
+.h2 nobreak
 INDEX.
 
 [Illustration]
@@ -103,49 +103,59 @@ Every Man his own Barometer,      28
 
 Weather Sayings, &c.,      30
 */
+
+.pm chapter-break
+
 .pm new-page-break 002
 
+.pm chapter-break
 
+.h1 nobreak
+TEN YEARS’ EXPERIENCE||IN RAISING||CARROTS AND CABBAGE.
 
-
-/*
-TEN YEARS’ EXPERIENCE
-
-IN RAISING
-
-CARROTS AND CABBAGE.
-
+.ce
 BY
 
+.ce 2
 H.\ A. COOK,
 Hillsdale, Col. Co., N.\ Y.
 
 [Illustration]
 
+.ce 3
 New York:
 <sc>Brown & Hewitt, Printers, 37 Park Row</sc>.
 1866.
 */
+
+.pm chapter-break
+
 .pm new-page-break 003
 
-
-
+.pm chapter-break
 
 /*
+.ce
 Entered according to Act of Congress, in the year 1866, by
 
+.ce
 H.\ A. COOK,
 
+.ce 2
 In the Clerk’s Office of the District Court of the United States for the Southern
 District of New York.
 */
+
+.pm chapter-break
+
 .pm new-page-break 004
 
+.pm chapter-break
 
-
-
+.h2 nobreak
 INTRODUCTION.
 
+.pm section-break
 
 Having observed from early youth by the little garden
 bed that carrots were a greatly productive crop, and the
@@ -182,17 +192,17 @@ my valuable composition (which is simple, cheap, and
 in the reach of all) for the heads, which augments the
 crop by half at least. Here, reader, I will leave you to
 peruse the following pages.
+
+.pm chapter-break
+
 .pm new-page-break 006
 
+.pm chapter-break
 
+.h2 nobreak
+TEN YEARS’ EXPERIENCE||IN RAISING||CARROTS AND CABBAGE.
 
-
-TEN YEARS’ EXPERIENCE
-
-IN RAISING
-
-CARROTS AND CABBAGE.
-
+.pm section-break
 
 I estimate that I can raise one acre of carrots as easily
 as two acres of corn. Upon keeping a close account in
@@ -202,6 +212,7 @@ At least he who will follow the instructions of the
 following pages may raise them at a cost of 10 cents
 per bushel.
 
+.pm section-break
 
 <i>Kind of Soil.</i>—Should be the same as for corn. Loose
 ground, even, quite moist, will raise the largest carrots in
@@ -229,6 +240,7 @@ the soil futile for almost any other crop, or apparently
 not diminishing its strength more than an ordinary corn
 crop.
 
+.pm section-break
 
 <i>Kind of Seed.</i>—The long orange is the best for
 nearly every purpose, although the white may grow as
@@ -237,6 +249,7 @@ designate by its being a lively green. Old seed is of a
 yellowish hue, and is much longer sprouting (a fact
 common to all old seeds).
 
+.pm section-break
 
 <i>Sowing.</i>—Sow as early as the dryness of the ground
 will admit—if it is done in April the larger will be
@@ -398,6 +411,7 @@ cylinder, minus the teeth, makes an excellent roller.
 When you have done rolling the carrot patch it is then
 useful for other plots.
 
+.pm section-break
 
 <i>Tilling.</i>—Begin as soon as you can see the rows,
 especially if you have a large piece. Having nearly or
@@ -433,6 +447,7 @@ seems to just loosen the weeds so that they grow better
 than before. You should have sowed them thick enough
 to allow for what the horse may destroy.
 
+.pm section-break
 
 <i>Hoeing.</i>—Procure small square cornered hoes, which
 are of the best steel, and grind them as sharp as
@@ -453,6 +468,7 @@ much. If he understands his business the job of weeding
 with the fingers is but a small one. Cultivating and hoeing
 should be done when the ground is very dry.
 
+.pm section-break
 
 <i>Weeding.</i>—Weeding should not be done when the
 ground is very dry, as the weeds are liable to break off
@@ -508,6 +524,7 @@ foregoing pages are thoroughly adhered to, and they
 excel all other crops after the root begins to show, in
 “standing” excessively dry or wet weather.
 
+.pm section-break
 
 <i>Digging.</i>—Let them remain in the ground as long as
 you dare for fear of warm weather, as they will keep
@@ -575,6 +592,7 @@ After they are dug carrots are the pleasantest of all
 roots to handle, easily “picked up,” quite light to carry,
 and very accurately measured in a large basket.
 
+.pm section-break
 
 <i>Storing.</i>—After they have remained in heaps above
 ground and dried thoroughly, which is the whole secret
@@ -606,6 +624,7 @@ with a little chimney in the centre. Probably this mode
 of burying will do on a sandy soil, but I think not on a
 soil of loam.
 
+.pm section-break
 
 <i>The value of Carrots.</i>—It is generally admitted that
 the carrot is the most nutritious of all roots. But the
@@ -708,6 +727,7 @@ of the past century.
 */
 #/
 
+.pm section-break
 
 <i>How to raise and clean the Seed.</i>—This, too, is very
 profitable far from cities where good land is cheap, for
@@ -735,6 +755,7 @@ would advise any one to change his seed at least every
 other year, as they will then grow much more prolific,
 both as regards raising the root or seed.
 
+.pm section-break
 
 <i>How to select good Seed.</i>—New seed is of a deep green
 color, and should be plump and even in size. Old seed
@@ -750,17 +771,22 @@ to examine them. They are often old seed, or if not
 entirely so, a large percentage almost invariably is old
 seed.
 
+.pm section-break
 
 <i>A true Saying.</i>—Take care of the weeds, for “one
 year’s seeding, makes seven year’s weeding.” This remark
 should ever be fresh in the gardener’s mind.
+
+.pm chapter-break
+
 .pm new-page-break 021
 
+.pm chapter-break
 
-
-
+.h2 nobreak
 RAISING CABBAGE.
 
+.pm section-break
 
 Next to the carrot crop, I consider that cabbages will,
 considering the amount of labor, bring the best and
@@ -800,6 +826,7 @@ out his heads that get ripe so early as to burst, and
 either use or sell them. However, I assert that I
 can make them head if the soil will grow them in time.
 
+.pm section-break
 
 <i>Transplanting.</i>—Do not perform this when the
 ground is wet. <i>Here</i> is where I differ from all other
@@ -880,6 +907,7 @@ teaspoonful. Where one is eaten off take the trouble to
 dig out the grub, or he is liable to take off several successive
 ones.
 
+.pm section-break
 
 <i>Tilling.</i>—The plants should be hoed a little about
 the third morning after they are set out, and then scratch
@@ -895,6 +923,7 @@ the young plants, that the side rootlets may be
 unobstructed in their course. Early cabbage may be
 planted nearer than two feet.
 
+.pm section-break
 
 <i>Heading Cabbage.</i>—The most important part, for a
 good crop, is yet to be performed. After having tilled
@@ -923,6 +952,7 @@ the size of the plant. By a flat culture and withholding
 the mixture till the cabbage has its height, you may
 grow tall cabbage but not the bulk of heads.
 
+.pm section-break
 
 <i>Cabbage Lice.</i>—During the seasons of 1864 and ’65,
 it being so dry, they were great pests. They are of a
@@ -941,6 +971,7 @@ can stand. The ashes should be finely sifted that no
 particles of fine coal, &c., will be found in the head.
 .pm new-page 026
 
+.pm section-break
 
 <i>Gathering.</i>—Let them stand (your winter heads) till
 you fear the ground will freeze so hard that you cannot
@@ -996,6 +1027,7 @@ do not seem to be very exhausting to the soil. Like
 other garden crops rotation is necessary. <i>Remember and
 not use hog manure for cabbage, lest they head in the ground.</i>
 
+.pm section-break
 
 <i>Five acres enough.</i>—Thus with five acres of good
 land well manured, and planted to carrots and cabbage,
@@ -1043,6 +1075,7 @@ the bulk of heads per acre to the man who does not use
 them, providing he does not bestow any more labor than
 I in tilling.
 
+.pm section-break
 
 <i>To make plenty of manure for these vegetables.</i>—This is
 a great desideratum in raising vegetables. In gardening
@@ -1076,6 +1109,7 @@ according to the foregoing pages. Methinks the highway
 to success and wealth, with economy and health,
 would surely appear.
 
+.pm section-break
 
 <i>Every man his own Barometer.</i>—In connection with
 gardening, it is very essential that we be able, with a
@@ -1147,6 +1181,7 @@ miniature barometer in reason’s temple, better to be relied
 upon than all the barometrical mechanism conceived
 by the wisdom of man.
 
+.pm section-break
 
 <i>Weather Sayings.</i>—The direction of the wind at the
 vernal equinox, thus it will be most of the season. Long
@@ -1186,12 +1221,14 @@ we may predict the weather with quite a reliable
 certainty. With such a strict observance the farmer
 and gardener may often save himself much labor, and
 save his crops from the exposure of the storm.
+
+.pm chapter-break
+
 .pm new-page 033
 .pm new-page 034
 .pm new-page-break 035
 
-
-
+.pm chapter-break
 
 COOK’S PATENT
 
@@ -1205,6 +1242,7 @@ OX SPRING,
 
 BOTH UNDER ONE PATENT.
 
+.pm section-break
 
 Very useful for balky or discouraged animals, or to prevent
 breakage of harness, plows, drags, mowing machines,
@@ -1227,6 +1265,7 @@ Very durable.
 This appears like a good improvement.—<i>Scientific American.</i>
 #/
 
+.pm section-break
 
 /*
 <b>H.\ A. COOK</b>, Patentee.
