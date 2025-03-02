@@ -303,9 +303,12 @@ _Ten years' experience in raising carrots and cabbage._ by Cook, H. A.
 
 ### Illustrations
 * [ ] Fixup illustrations:
-  * [ ] Illustration #1
-  * [ ] Illustration #2
-  * [ ] etc.
+  * [x] Front Cover -- 
+  * [x] Index Decoration -- i001.png (duplicate of i002.png)
+  * [x] Title Page Decoration -- i002.png
+  * [x] p. 3 Decoration -- i004.png
+  * [x] p. 5 Decoration -- i006.png
+  * [x] Back Cover -- i035.png
 
 ### Front Matter
 * [ ] Adjust front matter font sizes:
