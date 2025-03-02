@@ -9,6 +9,7 @@
 
 // Define CSS
 .de .tnbox { border:1px solid silver; padding: 0.5em; margin:2em 10% 0 10%; }
+.de .quote { margin-left: 1.5em; margin-right: 1.5em; }
 
 // Define macros
 .dm chapter-break
@@ -39,6 +40,40 @@
 .in -4
 .dm-
 
+.dm hang-start
+.in 4
+.ti -4 begin
+.dm-
+
+.dm hang-end
+.ti end
+.in
+.dm-
+
+.if t
+.dm quote-start
+.in +4
+.ll -4
+.dm-
+.if-
+.if h
+.dm quote-start
+.dv class=quote
+.dm-
+.if-
+
+.if t
+.dm quote-end
+.in -4
+.ll +4
+.dm-
+.if-
+.if h
+.dm quote-end
+.dv-
+.dm-
+.if-
+
 // Page numbering
 .pn off // turn off visible page numbers
 .pn link
@@ -48,85 +83,70 @@
 .nr psi 0.75em
 
 .bn 001.png
-.pn 1
+.pn i
 
 .pm chapter-break
 
 .h2 nobreak
-INDEX.
+<fs=125%>INDEX.</fs>
 
-[Illustration]
+.if h
+.il fn=i001.png w=100px
+.if-
 
-
-/*
-      PAGE
-
-Kind of Soil for Carrots,      5
-
-Sowing Carrots,      6
-
-Tilling   ”      10
-
-Hoeing   ”      11
-
-Weeding   ”      12
-
-Digging   ”      13
-
-Storing   ”      15
-
-The Value of Carrots,      16
-
-Carrots <i>vs.</i> Other Roots,      17
-
-How to Raise and Clean the Seed,      18
-
-How to Select Good Seed,      19
-
-Raising Cabbage,      20
-
-Transplanting Cabbage,      21
-
-Tilling ”      23
-
-Heading ”      23
-
-Lice on ”      24
-
-Gathering ”      25
-
-Five Acres Enough,      26
-
-To Make Plenty of Manure for these Five Acres,      27
-
-Every Man his own Barometer,      28
-
-Weather Sayings, &c.,      30
-*/
+.ta l:46 r:4 w=50%
+<th>                                           | PAGE
+Kind of Soil for Carrots,                      | #5#
+Sowing Carrots,                                | #6#
+Tilling   ”                                    | #10#
+Hoeing    ”                                    | #11#
+Weeding   ”                                    | #12#
+Digging   ”                                    | #13#
+Storing   ”                                    | #15#
+The Value of Carrots,                          | #16#
+Carrots <i>vs.</i> Other Roots,                | #17#
+How to Raise and Clean the Seed,               | #18#
+How to Select Good Seed,                       | #19#
+Raising Cabbage,                               | #20#
+Transplanting Cabbage,                         | #21#
+Tilling   ”                                    | #23#
+Heading   ”                                    | #23#
+Lice on   ”                                    | #24#
+Gathering ”                                    | #25#
+Five Acres Enough,                             | #26#
+To Make Plenty of Manure for these Five Acres, | #27#
+Every Man his own Barometer,                   | #28#
+Weather Sayings, &c.,                          | #30#
+.ta-
 
 .pm chapter-break
 
-.pm new-page-break 002
+.pb
+.bn 002.png
+.pn 1
 
 .pm chapter-break
 
 .h1 nobreak
-TEN YEARS’ EXPERIENCE||IN RAISING||CARROTS AND CABBAGE.
+<fs=140%>TEN YEARS’ EXPERIENCE</fs>||\
+<fs=60%>IN RAISING</fs>||\
+<fs=165%>CARROTS AND CABBAGE.</fs>
 
 .ce
-BY
+<fs=85%>BY</fs>
 
 .ce 2
-H.\ A. COOK,
-Hillsdale, Col. Co., N.\ Y.
+<fs=125%>H.\ A. COOK,</fs>
+<fs=85%>Hillsdale, Col. Co., N.\ Y.</fs>
 
-[Illustration]
+.if h
+.il fn=i002.png w=100px
+.if-
 
 .ce 3
-New York:
+<fs=125%>New York:</fs>
 <sc>Brown & Hewitt, Printers, 37 Park Row</sc>.
 1866.
-*/
 
 .pm chapter-break
 
@@ -134,17 +154,15 @@ New York:
 
 .pm chapter-break
 
-/*
-.ce
+.fs 85%
+.ce 6
 Entered according to Act of Congress, in the year 1866, by
 
-.ce
 H.\ A. COOK,
 
-.ce 2
 In the Clerk’s Office of the District Court of the United States for the Southern
 District of New York.
-*/
+.fs
 
 .pm chapter-break
 
@@ -154,6 +172,10 @@ District of New York.
 
 .h2 nobreak
 INTRODUCTION.
+
+.if h
+.il fn=i004.png w=100px
+.if-
 
 .pm section-break
 
@@ -200,7 +222,13 @@ peruse the following pages.
 .pm chapter-break
 
 .h2 nobreak
-TEN YEARS’ EXPERIENCE||IN RAISING||CARROTS AND CABBAGE.
+TEN YEARS’ EXPERIENCE||\
+<fs=60%>IN RAISING</fs>||\
+<fs=130%>CARROTS AND CABBAGE.</fs>
+
+.if h
+.il fn=i006.png w=100px
+.if-
 
 .pm section-break
 
@@ -658,7 +686,8 @@ pie they are first in the catalogue of kitchen vegetables,
 likewise for coffee, pickles, soup, &c., &c. A clip from
 the <i>Country Gentleman</i> by this Author:
 
-/#
+.pm quote-start
+
 <sc>Carrots versus other Roots.</sc>—Your correspondent
 J.\ V.\ K., Seneca Falls, N.\ Y., wishes a “short account,”
 &c., about raising turnips, beets and carrots for dairy
@@ -720,12 +749,12 @@ fine I will say, that he who farms without his carrot
 patch, ought to be classed among the old fogy farmers
 of the past century.
 
-/*
+.rj
 <sc>H.\ A. Cook.</sc>
 
 <i>Hillsdale, Dec. 4, 1865.</i>
-*/
-#/
+
+.pm quote-end
 
 .pm section-break
 
@@ -1230,19 +1259,18 @@ save his crops from the exposure of the storm.
 
 .pm chapter-break
 
-COOK’S PATENT
-
-SPRING WHIFFLETREE
-
-[Illustration]
-
-AND
-
-OX SPRING,
-
+.h2 
+<fs=200%>COOK’S PATENT</fs>||\
+<fs=285%>SPRING WHIFFLETREE</fs>||\
+<fs=85%>AND</fs>||\
+<fs=285%>OX SPRING,</fs>||\
 BOTH UNDER ONE PATENT.
 
+.il fn=i035.png w=400px alt='A spring with a ring on one end and a hook on the other as well as a bar with a pivot in the center and hooks on either end'
+
 .pm section-break
+
+.pm hang-start
 
 Very useful for balky or discouraged animals, or to prevent
 breakage of harness, plows, drags, mowing machines,
@@ -1261,13 +1289,37 @@ Springs only when striking an obstruction.
 
 Very durable.
 
-/#
 This appears like a good improvement.—<i>Scientific American.</i>
-#/
+
+.pm hang-end
 
 .pm section-break
 
-/*
-<b>H.\ A. COOK</b>, Patentee.
+.rj 2
+<fs=150%><b>H.\ A. COOK</b>, Patentee.</fs>
 HILLSDALE, COL. CO., N.\ Y.
-*/
+
+.pm chapter-break
+
+.pb
+
+.dv class=tnbox
+.ce
+.if h
+<b>Transcriber’s Notes</b>
+.if-
+.if t
+Transcriber’s Notes
+.if-
+.ul indent=1
+.if t
+.it Text in italics is enclosed by underscores (<i>italics</i>).
+.it Text in bold is enclosed by equal signs (<b>bold</b>).
+.if-
+.it The following issues should be noted, along with the resolution:
+.ta l:4 l:52 l:11 w=90%
+#16# | three hundred sto[r/n]e hog so fat, that a man of seventy-five | Replaced.
+#18# | meal per day, I will fatten a three hundred sto[r/n]e hog so | Replaced.
+.ta-
+.ul-
+.dv-

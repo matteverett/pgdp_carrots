@@ -302,7 +302,7 @@ _Ten years' experience in raising carrots and cabbage._ by Cook, H. A.
 * [x] Convert `.pm new-page` to `.pm new-page-break` as appropriate
 
 ### Illustrations
-* [ ] Fixup illustrations:
+* [x] Fixup illustrations:
   * [x] Front Cover -- 
   * [x] Index Decoration -- i001.png (duplicate of i002.png)
   * [x] Title Page Decoration -- i002.png
@@ -311,13 +311,13 @@ _Ten years' experience in raising carrots and cabbage._ by Cook, H. A.
   * [x] Back Cover -- i035.png
 
 ### Front Matter
-* [ ] Adjust front matter font sizes:
+* [x] Adjust front matter font sizes:
   * `.h1`: 1.4 em
   * `.h2`: 1.2 em
   * `.h3`: 1.2 em
 
 ### Generate HTML and Txt Files
-* [ ] Run ppgen on `-src.txt`
+* [x] Run ppgen on `-src.txt`
   * `python3.11 ~/pgdp/ppgen/ppgen.py -i -src.txt`
 
 ### Run PP Toolbox:
