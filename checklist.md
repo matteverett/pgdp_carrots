@@ -322,11 +322,11 @@ _Ten years' experience in raising carrots and cabbage._ by Cook, H. A.
 
 ### Run PP Toolbox:
 `https://www.pgdp.net/ppwb/`
-* [ ] pptext
-* [ ] pphtml
-* [ ] W3C HTML markup validator
-* [ ] W3C CSS validator
-* [ ] Gutenberg online bookmaker
+* [x] pptext
+* [x] pphtml
+* [x] W3C HTML markup validator
+* [x] W3C CSS validator
+* [x] Gutenberg online bookmaker
 
 ## References
 ### Post-Processing

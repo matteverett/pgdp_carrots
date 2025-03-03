@@ -96,27 +96,27 @@
 
 .ta l:46 r:4 w=50%
 <th>                                           | PAGE
-Kind of Soil for Carrots,                      | #5#
-Sowing Carrots,                                | #6#
-Tilling   ”                                    | #10#
-Hoeing    ”                                    | #11#
-Weeding   ”                                    | #12#
-Digging   ”                                    | #13#
-Storing   ”                                    | #15#
-The Value of Carrots,                          | #16#
-Carrots <i>vs.</i> Other Roots,                | #17#
-How to Raise and Clean the Seed,               | #18#
-How to Select Good Seed,                       | #19#
-Raising Cabbage,                               | #20#
-Transplanting Cabbage,                         | #21#
-Tilling   ”                                    | #23#
-Heading   ”                                    | #23#
-Lice on   ”                                    | #24#
-Gathering ”                                    | #25#
-Five Acres Enough,                             | #26#
-To Make Plenty of Manure for these Five Acres, | #27#
-Every Man his own Barometer,                   | #28#
-Weather Sayings, &c.,                          | #30#
+Kind of Soil for Carrots,                      | #5:ch01sect01#
+Sowing Carrots,                                | #6:ch01sect02#
+Tilling   ”                                    | #10:ch01sect03#
+Hoeing    ”                                    | #11:ch01sect04#
+Weeding   ”                                    | #12:ch01sect05#
+Digging   ”                                    | #13:ch01sect06#
+Storing   ”                                    | #15:ch01sect07#
+The Value of Carrots,                          | #16:ch01sect08#
+Carrots <i>vs.</i> Other Roots,                | #17:ch01sect09#
+How to Raise and Clean the Seed,               | #18:ch01sect10#
+How to Select Good Seed,                       | #19:ch01sect11#
+Raising Cabbage,                               | #20:ch02#
+Transplanting Cabbage,                         | #21:ch02sect01#
+Tilling   ”                                    | #23:ch02sect02#
+Heading   ”                                    | #23:ch02sect03#
+Lice on   ”                                    | #24:ch02sect04#
+Gathering ”                                    | #25:ch02sect05#
+Five Acres Enough,                             | #26:ch02sect06#
+To Make Plenty of Manure for these Five Acres, | #27:ch02sect07#
+Every Man his own Barometer,                   | #28:ch02sect08#
+Weather Sayings, &c.,                          | #30:ch02sect09#
 .ta-
 
 .pm chapter-break
@@ -240,7 +240,7 @@ At least he who will follow the instructions of the
 following pages may raise them at a cost of 10 cents
 per bushel.
 
-.pm section-break
+.h3 nobreak title='Kind of Soil' id=ch01sect01
 
 <i>Kind of Soil.</i>—Should be the same as for corn. Loose
 ground, even, quite moist, will raise the largest carrots in
@@ -268,7 +268,7 @@ the soil futile for almost any other crop, or apparently
 not diminishing its strength more than an ordinary corn
 crop.
 
-.pm section-break
+.h3 nobreak title='Kind of Seed'
 
 <i>Kind of Seed.</i>—The long orange is the best for
 nearly every purpose, although the white may grow as
@@ -277,7 +277,7 @@ designate by its being a lively green. Old seed is of a
 yellowish hue, and is much longer sprouting (a fact
 common to all old seeds).
 
-.pm section-break
+.h3 nobreak title='Sowing' id=ch01sect02
 
 <i>Sowing.</i>—Sow as early as the dryness of the ground
 will admit—if it is done in April the larger will be
@@ -439,7 +439,7 @@ cylinder, minus the teeth, makes an excellent roller.
 When you have done rolling the carrot patch it is then
 useful for other plots.
 
-.pm section-break
+.h3 nobreak title='Tilling' id=ch01sect03
 
 <i>Tilling.</i>—Begin as soon as you can see the rows,
 especially if you have a large piece. Having nearly or
@@ -475,7 +475,7 @@ seems to just loosen the weeds so that they grow better
 than before. You should have sowed them thick enough
 to allow for what the horse may destroy.
 
-.pm section-break
+.h3 nobreak title='Hoeing' id=ch01sect04
 
 <i>Hoeing.</i>—Procure small square cornered hoes, which
 are of the best steel, and grind them as sharp as
@@ -496,7 +496,7 @@ much. If he understands his business the job of weeding
 with the fingers is but a small one. Cultivating and hoeing
 should be done when the ground is very dry.
 
-.pm section-break
+.h3 nobreak title='Weeding' id=ch01sect05
 
 <i>Weeding.</i>—Weeding should not be done when the
 ground is very dry, as the weeds are liable to break off
@@ -552,7 +552,7 @@ foregoing pages are thoroughly adhered to, and they
 excel all other crops after the root begins to show, in
 “standing” excessively dry or wet weather.
 
-.pm section-break
+.h3 nobreak title='Digging' id=ch01sect06
 
 <i>Digging.</i>—Let them remain in the ground as long as
 you dare for fear of warm weather, as they will keep
@@ -620,7 +620,7 @@ After they are dug carrots are the pleasantest of all
 roots to handle, easily “picked up,” quite light to carry,
 and very accurately measured in a large basket.
 
-.pm section-break
+.h3 nobreak title='Storing' id=ch01sect07
 
 <i>Storing.</i>—After they have remained in heaps above
 ground and dried thoroughly, which is the whole secret
@@ -652,7 +652,7 @@ with a little chimney in the centre. Probably this mode
 of burying will do on a sandy soil, but I think not on a
 soil of loam.
 
-.pm section-break
+.h3 nobreak title='The Value of Carrots' id=ch01sect08
 
 <i>The value of Carrots.</i>—It is generally admitted that
 the carrot is the most nutritious of all roots. But the
@@ -685,6 +685,8 @@ pie they are first in the catalogue of kitchen vegetables,
 .pm new-page 018
 likewise for coffee, pickles, soup, &c., &c. A clip from
 the <i>Country Gentleman</i> by this Author:
+
+.h3 nobreak title='Carrots Versus Other Roots' id=ch01sect09
 
 .pm quote-start
 
@@ -756,7 +758,7 @@ of the past century.
 
 .pm quote-end
 
-.pm section-break
+.h3 nobreak title='How to Raise and Clean the Seed' id=ch01sect10
 
 <i>How to raise and clean the Seed.</i>—This, too, is very
 profitable far from cities where good land is cheap, for
@@ -784,7 +786,7 @@ would advise any one to change his seed at least every
 other year, as they will then grow much more prolific,
 both as regards raising the root or seed.
 
-.pm section-break
+.h3 nobreak title='How to Select Good Seed' id=ch01sect11
 
 <i>How to select good Seed.</i>—New seed is of a deep green
 color, and should be plump and even in size. Old seed
@@ -800,7 +802,7 @@ to examine them. They are often old seed, or if not
 entirely so, a large percentage almost invariably is old
 seed.
 
-.pm section-break
+.h3 nobreak title='A True Saying'
 
 <i>A true Saying.</i>—Take care of the weeds, for “one
 year’s seeding, makes seven year’s weeding.” This remark
@@ -812,7 +814,7 @@ should ever be fresh in the gardener’s mind.
 
 .pm chapter-break
 
-.h2 nobreak
+.h2 nobreak id=ch02
 RAISING CABBAGE.
 
 .pm section-break
@@ -855,7 +857,7 @@ out his heads that get ripe so early as to burst, and
 either use or sell them. However, I assert that I
 can make them head if the soil will grow them in time.
 
-.pm section-break
+.h3 nobreak title='Transplanting' id=ch02sect01
 
 <i>Transplanting.</i>—Do not perform this when the
 ground is wet. <i>Here</i> is where I differ from all other
@@ -936,7 +938,7 @@ teaspoonful. Where one is eaten off take the trouble to
 dig out the grub, or he is liable to take off several successive
 ones.
 
-.pm section-break
+.h3 nobreak title='Tilling' id=ch02sect02
 
 <i>Tilling.</i>—The plants should be hoed a little about
 the third morning after they are set out, and then scratch
@@ -952,7 +954,7 @@ the young plants, that the side rootlets may be
 unobstructed in their course. Early cabbage may be
 planted nearer than two feet.
 
-.pm section-break
+.h3 nobreak title='Heading Cabbage' id=ch02sect03
 
 <i>Heading Cabbage.</i>—The most important part, for a
 good crop, is yet to be performed. After having tilled
@@ -981,7 +983,7 @@ the size of the plant. By a flat culture and withholding
 the mixture till the cabbage has its height, you may
 grow tall cabbage but not the bulk of heads.
 
-.pm section-break
+.h3 nobreak title='Cabbage Lice' id=ch02sect04
 
 <i>Cabbage Lice.</i>—During the seasons of 1864 and ’65,
 it being so dry, they were great pests. They are of a
@@ -1000,7 +1002,7 @@ can stand. The ashes should be finely sifted that no
 particles of fine coal, &c., will be found in the head.
 .pm new-page 026
 
-.pm section-break
+.h3 nobreak title='Gathering' id=ch02sect05
 
 <i>Gathering.</i>—Let them stand (your winter heads) till
 you fear the ground will freeze so hard that you cannot
@@ -1056,7 +1058,7 @@ do not seem to be very exhausting to the soil. Like
 other garden crops rotation is necessary. <i>Remember and
 not use hog manure for cabbage, lest they head in the ground.</i>
 
-.pm section-break
+.h3 nobreak title='Five Acres Enough' id=ch02sect06
 
 <i>Five acres enough.</i>—Thus with five acres of good
 land well manured, and planted to carrots and cabbage,
@@ -1104,7 +1106,7 @@ the bulk of heads per acre to the man who does not use
 them, providing he does not bestow any more labor than
 I in tilling.
 
-.pm section-break
+.h3 nobreak title='To Make Plenty of Manure for These Vegetables' id=ch02sect07
 
 <i>To make plenty of manure for these vegetables.</i>—This is
 a great desideratum in raising vegetables. In gardening
@@ -1138,7 +1140,7 @@ according to the foregoing pages. Methinks the highway
 to success and wealth, with economy and health,
 would surely appear.
 
-.pm section-break
+.h3 nobreak title='Every Man His Own Barometer' id=ch02sect08
 
 <i>Every man his own Barometer.</i>—In connection with
 gardening, it is very essential that we be able, with a
@@ -1210,7 +1212,7 @@ miniature barometer in reason’s temple, better to be relied
 upon than all the barometrical mechanism conceived
 by the wisdom of man.
 
-.pm section-break
+.h3 nobreak title='Weather Saying' id=ch02sect09
 
 <i>Weather Sayings.</i>—The direction of the wind at the
 vernal equinox, thus it will be most of the season. Long
