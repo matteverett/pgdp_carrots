@@ -75,12 +75,29 @@
 .if-
 
 // Page numbering
-.pn off // turn off visible page numbers
 .pn link
 
 // Paragraph formatting, indent paragraphs by 0.75 em.
 .pi
 .nr psi 0.75em
+
+.if t
+.pm chapter-break
+.ce
+Transcriber’s Notes
+.ul indent=1
+.it Text in italics is enclosed by underscores (<i>italics</i>).
+.it Text in bold is enclosed by equal signs (<b>bold</b>).
+.it The following issues should be noted, along with the resolution:
+.ta l:4 l:52 l:11 w=90%
+#5:TN1#  | dry lo[o/a]m for the carrot patch. | Replaced.
+#16:TN2# | three hundred sto[r/n]e hog so fat, that a man of seventy-five | Replaced.
+#17:TN3# | meal per day, I will fatten a three hundred sto[r/n]e hog so | Replaced.
+.ta-
+.ul-
+.pm chapter-break
+.pb
+.if-
 
 .bn 001.png
 .pn i
@@ -246,7 +263,7 @@ per bushel.
 ground, even, quite moist, will raise the largest carrots in
 a dry season, while a sandy or quite gravelly soil will do
 the best in a wet season. It is best to select a somewhat
-dry loom for the carrot patch.
+dry <target=TN1>loam for the carrot patch.
 
 Plow the ground in autumn to kill all grass and
 weed roots, simultaneously destroying many weed seeds,
@@ -355,7 +372,7 @@ go with it to the cellar again. In this way I have kept
 it from sprouting for eight days before my ground was
 fit to sow because of the long rains, when, if I had kept
 it behind the stove pipe it would have spoiled. In
-five days after, sowing my carrots appeared above
+five days after sowing my carrots appeared above
 ground.
 
 The utility of soaking the seed is this,—the carrots
@@ -679,7 +696,7 @@ cream.
 Sheep are very fond of them and fatten fast. Hogs
 will winter well on them, better if boiled. With boiled
 carrots, and one quart of meal per day, I will make a
-three hundred stone hog so fat, that a man of seventy-five
+three hundred <target=TN2>stone hog so fat, that a man of seventy-five
 years can catch him in an open field. Then for a fine
 pie they are first in the catalogue of kitchen vegetables,
 .pm new-page 018
@@ -718,7 +735,7 @@ then seem to hurt the creature’s mouth. Hogs do
 not like them except boiled, and then are not eager
 for them, while they can be well wintered with either
 of the first two. With boiled carrots and one quart of
-meal per day, I will fatten a three hundred stone hog so
+meal per day, I will fatten a three hundred <target=TN3>stone hog so
 fat that a man of seventy-five years can catch him in an
 open field. Besides, carrots are the cleanest root (if dug
 when the ground is dry, as they should be), and lighter
@@ -1272,8 +1289,6 @@ BOTH UNDER ONE PATENT.
 
 .pm section-break
 
-.pm hang-start
-
 Very useful for balky or discouraged animals, or to prevent
 breakage of harness, plows, drags, mowing machines,
 or any farming implements; useful for cars, canal boats, &c.
@@ -1293,8 +1308,6 @@ Very durable.
 
 This appears like a good improvement.—<i>Scientific American.</i>
 
-.pm hang-end
-
 .pm section-break
 
 .rj 2
@@ -1303,25 +1316,19 @@ HILLSDALE, COL. CO., N.\ Y.
 
 .pm chapter-break
 
+.if h
 .pb
 
 .dv class=tnbox
 .ce
-.if h
 <b>Transcriber’s Notes</b>
-.if-
-.if t
-Transcriber’s Notes
-.if-
 .ul indent=1
-.if t
-.it Text in italics is enclosed by underscores (<i>italics</i>).
-.it Text in bold is enclosed by equal signs (<b>bold</b>).
-.if-
 .it The following issues should be noted, along with the resolution:
 .ta l:4 l:52 l:11 w=90%
-#16# | three hundred sto[r/n]e hog so fat, that a man of seventy-five | Replaced.
-#18# | meal per day, I will fatten a three hundred sto[r/n]e hog so | Replaced.
+#5:TN1#  | dry lo[o/a]m for the carrot patch. | Replaced.
+#16:TN2# | three hundred sto[r/n]e hog so fat, that a man of seventy-five | Replaced.
+#17:TN3# | meal per day, I will fatten a three hundred sto[r/n]e hog so | Replaced.
 .ta-
 .ul-
 .dv-
+.if-
