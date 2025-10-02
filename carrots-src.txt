@@ -11,6 +11,9 @@
 .de .tnbox { border:1px solid silver; padding: 0.5em; margin:2em 10% 0 10%; }
 .de .quote { margin-left: 1.5em; margin-right: 1.5em; }
 
+// Fix TN bullets
+.sr t ~●~•~
+
 // Define macros
 .dm chapter-break
 .sp 4
